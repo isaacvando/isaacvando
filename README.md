@@ -1,6 +1,8 @@
-## Hi, i'm Isaac!
+## Hi, I'm Isaac!
 I love functional programming so my main focus right now is on writing Haskell. I am also interested in mobile development. Outside of writing code, I spend time learning mathematics, especially things like algebra and mathematical logic.
-[isaacvando.com](https://isaacvando.com) | [Linkedin](https://www.linkedin.com/in/isaacvando/)
+
+
+[isaacvando.com](https://isaacvando.com) | [linkedin.com](https://www.linkedin.com/in/isaacvando/)
 
 <!--
 **isaacvando/isaacvando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
