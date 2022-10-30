@@ -1,5 +1,6 @@
-# Isaac Van Doren
-[Linkedin](https://www.linkedin.com/in/isaac-van-doren-981297196/)
+## Hi, i'm Isaac!
+I love functional programming so my main focus right now is on writing Haskell. I am also interested in mobile development. Outside of writing code, I spend time learning mathematics, especially things like algebra and mathematical logic.
+[isaacvando.com](https://isaacvando.com) | [Linkedin](https://www.linkedin.com/in/isaacvando/)
 
 <!--
 **isaacvando/isaacvando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
